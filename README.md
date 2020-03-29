@@ -1,4 +1,5 @@
-# ResearchersInDataScience
- a repository gathering young researchers in data sciences, we are springboard for Data Scientist.
+# Researchers In Data Science
+ a repository gathering young researchers in Data Science, we are springboard for Data Scientist.
+
 # Contact-us on Whatsapp
- Grady Kamingu Data Sciences expert : +243 821 101 417.
+ Gradi Kamingu, M. Sc., Data Scientist : +243 821 101 417.
