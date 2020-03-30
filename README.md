@@ -1,4 +1,4 @@
-# Researchers In Data Science
+# Researchers in Data Science
  a repository gathering young researchers in Data Science, we are springboard for Data Scientist.
 
 # Contact us on Whatsapp
